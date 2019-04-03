@@ -1,0 +1,3 @@
+[submodule "react-native-starter-kit"]
+	path = react-native-starter-kit
+	url = https://github.com/dirigible37/react-native-starter-kit
